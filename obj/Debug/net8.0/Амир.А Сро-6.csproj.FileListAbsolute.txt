@@ -1,0 +1,33 @@
+C:\Users\user\source\repos\Амир.А Сро-6\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\user\source\repos\Амир.А Сро-6\bin\Debug\net8.0\appsettings.json
+C:\Users\user\source\repos\Амир.А Сро-6\bin\Debug\net8.0\Амир.А Сро-6.exe
+C:\Users\user\source\repos\Амир.А Сро-6\bin\Debug\net8.0\Амир.А Сро-6.deps.json
+C:\Users\user\source\repos\Амир.А Сро-6\bin\Debug\net8.0\Амир.А Сро-6.runtimeconfig.json
+C:\Users\user\source\repos\Амир.А Сро-6\bin\Debug\net8.0\Амир.А Сро-6.dll
+C:\Users\user\source\repos\Амир.А Сро-6\bin\Debug\net8.0\Амир.А Сро-6.pdb
+C:\Users\user\source\repos\Амир.А Сро-6\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\user\source\repos\Амир.А Сро-6\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\user\source\repos\Амир.А Сро-6\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user\source\repos\Амир.А Сро-6\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user\source\repos\Амир.А Сро-6\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user\source\repos\Амир.А Сро-6\obj\Debug\net8.0\Амир.А Сро-6.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Амир.А Сро-6\obj\Debug\net8.0\Амир.А Сро-6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Амир.А Сро-6\obj\Debug\net8.0\Амир.А Сро-6.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Амир.А Сро-6\obj\Debug\net8.0\Амир.А Сро-6.AssemblyInfo.cs
+C:\Users\user\source\repos\Амир.А Сро-6\obj\Debug\net8.0\Амир.А Сро-6.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Амир.А Сро-6\obj\Debug\net8.0\Амир.А Сро-6.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user\source\repos\Амир.А Сро-6\obj\Debug\net8.0\Амир.А Сро-6.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\source\repos\Амир.А Сро-6\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\user\source\repos\Амир.А Сро-6\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\user\source\repos\Амир.А Сро-6\obj\Debug\net8.0\staticwebassets\msbuild.Амир.А Сро-6.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user\source\repos\Амир.А Сро-6\obj\Debug\net8.0\staticwebassets\msbuild.build.Амир.А Сро-6.props
+C:\Users\user\source\repos\Амир.А Сро-6\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Амир.А Сро-6.props
+C:\Users\user\source\repos\Амир.А Сро-6\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Амир.А Сро-6.props
+C:\Users\user\source\repos\Амир.А Сро-6\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\user\source\repos\Амир.А Сро-6\obj\Debug\net8.0\scopedcss\bundle\Амир.А Сро-6.styles.css
+C:\Users\user\source\repos\Амир.А Сро-6\obj\Debug\net8.0\Амир.А С.948A5490.Up2Date
+C:\Users\user\source\repos\Амир.А Сро-6\obj\Debug\net8.0\Амир.А Сро-6.dll
+C:\Users\user\source\repos\Амир.А Сро-6\obj\Debug\net8.0\refint\Амир.А Сро-6.dll
+C:\Users\user\source\repos\Амир.А Сро-6\obj\Debug\net8.0\Амир.А Сро-6.pdb
+C:\Users\user\source\repos\Амир.А Сро-6\obj\Debug\net8.0\Амир.А Сро-6.genruntimeconfig.cache
+C:\Users\user\source\repos\Амир.А Сро-6\obj\Debug\net8.0\ref\Амир.А Сро-6.dll
